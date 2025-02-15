@@ -54,7 +54,7 @@ Welcome to the **Stable Diffusion Image Generation** repository! This project ut
 > "A futuristic cityscape at sunset, vibrant colors, high detail"
 
 ### Generated Image:
-*(Insert example image here)*
+
 
 ## 🤝 Contributing
 
