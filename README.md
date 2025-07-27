@@ -69,9 +69,6 @@ Welcome to the **Stable Diffusion Image Generation** repository! This project le
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for full details.
 
 ## 🙌 Acknowledgements
 
